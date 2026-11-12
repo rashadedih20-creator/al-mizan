@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="screenshots/app-icon.png" alt="Al-Mizan app icon" width="120">
+</p>
+
 # Al-Mizan (الميزان) — offline point-of-sale for small shops
 
 A complete cashier and store-management app that runs a whole shop from **one Android phone**, with **no internet and no server**. Built for small shops in Syria: Syrian pounds and US dollars in the same drawer, frequent power and internet cuts, and no budget for a PC, a barcode scanner or hosting.
@@ -86,6 +90,22 @@ Planned next steps:
 - **Phone as a wireless barcode scanner** for the laptop, using the camera scanner that already exists.
 
 Today the app is deliberately single-device, so linking devices is the main design challenge: keeping data consistent between two devices without depending on the internet, and without breaking the one-transaction rule for every sale.
+
+## Welcome and first run
+
+A three-page introduction, then the owner sets a name and a private password before the shop opens. Arabic and English, light and dark.
+
+<p align="center">
+  <img src="screenshots/welcome-1.png" width="200" alt="Your whole shop in one place">
+  <img src="screenshots/welcome-2.png" width="200" alt="Know what you're owed and what you owe">
+  <img src="screenshots/welcome-3.png" width="200" alt="Your work carries on without internet">
+  <img src="screenshots/account-setup.png" width="200" alt="Account setup">
+</p>
+
+<p align="center">
+  <img src="screenshots/welcome-dark.png" width="200" alt="Dark theme">
+  <img src="screenshots/welcome-english.png" width="200" alt="English">
+</p>
 
 ## Screens
 
